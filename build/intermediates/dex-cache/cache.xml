@@ -2,137 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-0bc9732e251c4e7cf44ef43628b7867df4af88ae.jar" />
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-440a681e47d10204cfdb5a3a990c56c105283a26.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-e9b7cfaa8051dcee90bf04abc9803171875410ba.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-79e4e5b26605efddd4ab166defaa7336af0b84c2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-d6439d7ca50f2949748499ecbc7b256878969558.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-1952382099e70a8b46e2b336df16a24b38902566.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-2170d92d8e82cdb06bd04554ca824ed4e839dbbd.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="27775d59b16610ac76f1b83693fedd9520396332">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-f14bacdf32b458c98c34ba70c52fc46ad79d49c2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.github.shell-software\uitools\1.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-135fee5eac2b0a54cc856b059833c54fa1e5b960.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-76fd2122f7b0dd301d796fa812ade4639a74b2a2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-1be7a97e3c8db40c5cff0714c4fc01e57a678387.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-5d58855585ea63d4c90d2af430522f5f53ca9fbd.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-60deb7c35967847c085ea5640836ebec93ec89f7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-2685f777daf8d0d89a61cae466aab1a21813776c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-ce96adb3560e2b677e9c04a25b8ff14e70fd1a65.jar" />
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-8e095f8d9821912b606cd3652414b172b6fb2eb8.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="eb576427887e497cd958a475475f9206e38dc314">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-76140f8e1f7c0c3a4f6e7df2e40c023f0c5fdeb7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-08e404cc2fe76219fddc93cfdfca7fcda630fe2a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-363834d8c2f40b5d6779634493a0885cffc46ad7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="77f9593d979f4347344be233bd0d888315f79517">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-751ff8c0b64387e496a071f137f56cb7805cdc4f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-4ca8fbc1640d960c63d7e092732e6b3b233fe8b2.jar" />
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-3b4913b51d6f12c2ef3ce74cbb3f98327c776b81.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
@@ -142,18 +30,74 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-db9c8d3e960563267989711cff430a73e42595c6.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-e57f3b7ad61fc3791931e2fc17cc4063392daa9b.jar" />
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-ff40930d041ececad2536269cc57e8e0e06ef96e.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.9\872ec63b41181e29ad5a3723f1417356e2d2c0f2\slf4j-api-1.7.9.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.9-a91710559923fdeb44b8e0518b774da8da088560.jar" />
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-ed5104c611d320d4149e44dbfb6695c8dfeff7e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-0667a2d19990efc8311f2e580b01789687eec94e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-363834d8c2f40b5d6779634493a0885cffc46ad7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-f14bacdf32b458c98c34ba70c52fc46ad79d49c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.github.shell-software\fab\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48bbecbdd3ed42e9df1b94a945480838e3bb208b">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-3cacc7b9d00ee4cd096da38b472309f69400c715.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-6bf780799b295e560f141e7235a1c93ac2a3bfeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-e07dfb29d2abb7ae43a3d492ff457975fde8cf0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-79e4e5b26605efddd4ab166defaa7336af0b84c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-76fd2122f7b0dd301d796fa812ade4639a74b2a2.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
@@ -163,18 +107,46 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-dca03ef58b550693c7ac47f90a13c68395deedb7.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-d79e1b9315f3858ea8bb5c95dc5bd501c9d07b19.jar" />
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-758ec28d294a2f8461e1543f8228e9793fe0f33a.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-440a681e47d10204cfdb5a3a990c56c105283a26.jar" />
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6e8a7f6194bfd2ddde8f964a2edc4b55274b9e72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-60deb7c35967847c085ea5640836ebec93ec89f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.9\872ec63b41181e29ad5a3723f1417356e2d2c0f2\slf4j-api-1.7.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.9-a91710559923fdeb44b8e0518b774da8da088560.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-e9b7cfaa8051dcee90bf04abc9803171875410ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-a62e3389e73939efa0ba80185e5f015593f3ba3b.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
@@ -184,11 +156,32 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-4dc6e80ee84c29eb04ee5d1b2c1363433e543a68.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-55525a497ead629b494313f2deb40164909da611.jar" />
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-98103f4b2d55e3f474668cc7f68638876379bc5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-ce96adb3560e2b677e9c04a25b8ff14e70fd1a65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-1be7a97e3c8db40c5cff0714c4fc01e57a678387.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.github.shell-software\uitools\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-348fadb1b4ad556891153bd107193f9c9a0b6d08.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
@@ -198,11 +191,18 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-08c6fbe04918b1cf505fc53a46a5ac7c846c74f4.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-ff40930d041ececad2536269cc57e8e0e06ef96e.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-57a743dd40e4c40d1caade0e11d1006982f945ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-e57f3b7ad61fc3791931e2fc17cc4063392daa9b.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.github.shell-software\fab\1.1.2\jars\classes.jar"
@@ -212,11 +212,144 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-7c68ef6a22755f2db2e1261b3a9cdc079c405ead.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-98103f4b2d55e3f474668cc7f68638876379bc5a.jar" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-da6a2f9699d1560fcc1ce604cf0030705e2a82ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-7a5c16b7b34eb5aa3379f93a77dfb10c5336723b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-f5bb4b7899827d5cf5bfc16b04c802eb4736fcb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-5d58855585ea63d4c90d2af430522f5f53ca9fbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-08d657f4c5149fb11cee4344f3c2192ff8677503.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-9ec15c0eb7ad43c03fa9bdc4e63051c6a8cd0a1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-8ebff8f518fadc3f1e9604368dee13f025cf4783.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-a30bd32cdf5ae2fb545ea42729a9eb9b9b758c4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-d79e1b9315f3858ea8bb5c95dc5bd501c9d07b19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-39cc10487c2904cfa73884ea7d28fafcd9b4f3af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-17372f4bb0770e6191f655b62c372f449da57421.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-2170d92d8e82cdb06bd04554ca824ed4e839dbbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-1952382099e70a8b46e2b336df16a24b38902566.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-677a0f67d23c865b0d6021250b7ec6096fac7f50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-2685f777daf8d0d89a61cae466aab1a21813776c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-ef5dcfd8df19dfa5798d92ad99a08438904feed5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-55525a497ead629b494313f2deb40164909da611.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-76140f8e1f7c0c3a4f6e7df2e40c023f0c5fdeb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-72d76dc20436265ab5e1cd32be070a3e2db1646e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.github.shell-software\uitools\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-135fee5eac2b0a54cc856b059833c54fa1e5b960.jar" />
     </item>
     <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.github.shell-software\viewmover\1.1.0\jars\classes.jar"
@@ -226,6 +359,97 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-4d3030cc4664e0e4605b07140b56b9dfd16ded8b.jar" />
     </item>
     <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-6e0dd93483f5da1c8a86923779f6e9d203fa7ae6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-787392de2b5cb3269cdfe8686bfc401a7cc3dd6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-97a26c08424e9acef365dee1b5b516447e79db81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-d6439d7ca50f2949748499ecbc7b256878969558.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-0bc9732e251c4e7cf44ef43628b7867df4af88ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-751ff8c0b64387e496a071f137f56cb7805cdc4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-0474cc22e2c4cec53ce9f0f4c9a218a3c7f34ac3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-4ca8fbc1640d960c63d7e092732e6b3b233fe8b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.github.shell-software\viewmover\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d6dc28c575755c91be7f6a69803e4ebe98c7c7d">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-870e3f6e6355a94218b1748eb93e9408ff92f795.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-c80fcf0373237eb46762f636025638269c92521b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-d32cf7c1edca41d62d6df39b1f93660c5a86d969.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\classes-08e404cc2fe76219fddc93cfdfca7fcda630fe2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-517596ba7a20920b762013aa6091534ef22b5663.jar" />
+    </item>
+    <item
         jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -233,11 +457,11 @@
         <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b90966a0a0aa4c06ac848819b37d668edf259dd9.jar" />
     </item>
     <item
-        jar="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="C:\Users\Sarthak Ghosh\Documents\androidStudio\Freshap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6e8a7f6194bfd2ddde8f964a2edc4b55274b9e72.jar" />
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\Sarthak Ghosh\pick-and-drop\app\build\intermediates\pre-dexed\debug\classes-5145a588739c3caaf48fc1bc9c0230877703d334.jar" />
     </item>
 
 </items>
