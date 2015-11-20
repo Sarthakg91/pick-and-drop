@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
@@ -17,12 +18,18 @@ import com.google.android.gms.maps.model.PolylineOptions;
 import com.oguzdev.circularfloatingactionmenu.library.FloatingActionButton;
 import com.software.shell.fab.ActionButton;
 
+import org.json.JSONException;
+
+import java.io.IOException;
 import java.util.List;
 
 public class Enter_PickUp extends ActionBarActivity implements Communicator {
     String name1;
     String location1;
     enterPickUpFragment frag;
+    GoogleMap map;
+    private List<LatLng> lines;
+    String url;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,13 +54,14 @@ public class Enter_PickUp extends ActionBarActivity implements Communicator {
 
         MapFragment mapFrag = (MapFragment)getFragmentManager().findFragmentById(R.id.map1);
         List<LatLng> lines = Util.getPolyLines();
-        mapFrag.getMap().addPolyline(new PolylineOptions().addAll(lines).width(10).color(Color.RED));
+        map =  mapFrag.getMap();
+        map.addPolyline(new PolylineOptions().addAll(lines).width(10).color(Color.RED));
         CameraPosition cp = new CameraPosition(lines.get(lines.size() / 2),(float)10.0,(float)0.0,(float)0.0);
-        mapFrag.getMap().moveCamera(CameraUpdateFactory.newCameraPosition(cp));
-        mapFrag.getMap().addMarker(new MarkerOptions()
+        map.moveCamera(CameraUpdateFactory.newCameraPosition(cp));
+        map.addMarker(new MarkerOptions()
                 .position(lines.get(0))
                 .title("Source"));
-        mapFrag.getMap().addMarker(new MarkerOptions()
+        map.addMarker(new MarkerOptions()
                 .position(lines.get(lines.size() - 1))
                 .title("Destination"));
     }
@@ -73,12 +81,77 @@ public class Enter_PickUp extends ActionBarActivity implements Communicator {
 
     @Override
     public void respond(String name, String location) {
+        map.clear();
         name1=name;
         location1=location;
         FragmentManager my_manager2=getFragmentManager();
         FragmentTransaction transaction=my_manager2.beginTransaction();
         transaction.remove(frag);
         transaction.commit();
+        url="https://maps.googleapis.com/maps/api/directions/json?origin="+
+                Util.getSource().toString()+"&destination="+location+"&key="+Util.API_KEY;
+        url = url.replaceAll(" ","%20");
+
+
+
+        Thread query = new Thread(new Runnable() {
+            @Override
+            public void run() {
+
+                runQuery();
+
+            }
+        });
+        query.start();
+        while (query.isAlive());
+        if(lines!=null && lines!=null){
+            map.addPolyline(new PolylineOptions().addAll(lines).width(10).color(Color.RED));
+            CameraPosition cp = new CameraPosition(lines.get(lines.size() / 2),(float)10.0,(float)0.0,(float)0.0);
+            map.moveCamera(CameraUpdateFactory.newCameraPosition(cp));
+            map.addMarker(new MarkerOptions()
+                    .position(lines.get(0))
+                    .title("Source"));
+            map.addMarker(new MarkerOptions()
+                    .position(lines.get(lines.size() - 1))
+                    .title(name));
+        }
+
+        url="https://maps.googleapis.com/maps/api/directions/json?origin="+
+                location+"&destination="+Util.getDest()+"&key="+Util.API_KEY;
+        url = url.replaceAll(" ","%20");
+
+
+        lines = null;
+        query = new Thread(new Runnable() {
+            @Override
+            public void run() {
+
+                runQuery();
+
+            }
+        });
+        query.start();
+        while (query.isAlive());
+        if(lines!=null && lines!=null){
+            map.addPolyline(new PolylineOptions().addAll(lines).width(10).color(Color.RED));
+            CameraPosition cp = new CameraPosition(lines.get(lines.size() / 2),(float)10.0,(float)0.0,(float)0.0);
+            map.moveCamera(CameraUpdateFactory.newCameraPosition(cp));
+            map.addMarker(new MarkerOptions()
+                    .position(lines.get(lines.size() - 1))
+                    .title("Destination"));
+        }
 
     }
+
+    private void runQuery() {
+        try {
+            String httpResponse = Util.getHttpResponse(url);
+            lines = Util.getLines(httpResponse);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
 }

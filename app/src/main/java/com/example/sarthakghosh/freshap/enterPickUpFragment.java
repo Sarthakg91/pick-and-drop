@@ -62,7 +62,8 @@ public class enterPickUpFragment extends Fragment {
     }
 
     private void respondToOkayButton() {
-        comm.respond(nameTextField.toString(), locationTextField.toString());
+        comm.respond(nameTextField.getText().toString(), locationTextField.getText().toString());
+
     }
 
     private void respondToCloseButton() {
