@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#96ffbb00"
+    android:backgroundTint="@color/material_blue_grey_800"
+    android:id="@+id/start_and_destination_fragment"
+    android:weightSum="1">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_gravity="center_vertical|right"
+        android:layout_weight="0.14"
+        android:background="#ffffffff"
+        android:gravity="center_vertical"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="@dimen/right_margin1"
+        android:layout_marginLeft="@dimen/right_margin1"
+        android:hint="Enter Location" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_vertical|right|top"
+        android:layout_weight="0.13"
+        android:background="#ffffffff"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:layout_marginRight="@dimen/right_margin1"
+        android:layout_marginLeft="@dimen/right_margin1"
+        android:hint="Enter Destination" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:id="@+id/button2"
+        android:layout_marginRight="@dimen/right_margin1"
+        android:layout_gravity="right" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pick and Drop</string>
+    <string name="enter_pick_up">Enter Pick-ups</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="yellow">#FEBF45</color>
+    <color name="red_plus">#e51c23</color>
+    <color name="button_Background_Blue"> #628C95</color>
+
+    <string name="title_activity_pick_up__main">Enter Destination</string>
+
+</resources>

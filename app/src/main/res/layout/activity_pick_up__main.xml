@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sarthakghosh.freshap.PickUp_Main"
+    android:id="@+id/pickup_main">
+
+
+    <fragment
+        android:layout_below="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:id="@+id/map1"
+        android:layout_alignParentTop="true" />
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.sarthakghosh.freshap.enterStartAndEndFragment"
+        android:id="@+id/fragment"
+        android:layout_alignParentTop="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set pick-ups"
+        android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/fragment"
+        android:layout_alignStart="@+id/fragment"
+        android:onClick="openEnterPickUpActivity" />
+
+</RelativeLayout>
